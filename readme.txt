@@ -11,16 +11,26 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Track your outbound links in Google Analytics.  This is compatible with both Classic and Universal Analytics Accounts.
 
+To see results in Google Analytics or to create a goal.
+In Google Analytics Reporting go to: "Behavior" -> "Events" -> "Overview"
+
+Event Category = "external"
+Event Action = "click"
+Event Label = the outbound URL
+
+If you need help with this plugin or WordPress design, plugins or themes, visit my website: [Rise of the Web](http://riseofweb.com).
 
 == Installation ==
 
-1. Unzip to plugins directory
+1. Upload folder to '/wp-content/plugins/' directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
-Coming soon.
-
-Answer to foo bar dilemma.
+What do I use for adding a goal?
+Event Category = "external"
+Event Action = "click"
+Event Label = the outbound URL
 
 == Changelog ==
 
