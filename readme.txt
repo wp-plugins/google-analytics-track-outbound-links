@@ -3,7 +3,7 @@ Contributors: riseofweb
 Donate link: http://riseofweb.com/
 Tags: Google Analytics, Tracking, Outbound Links, track out links
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Track your outbound links in Google Analytics.  This is compatible with both Classic and Universal Analytics Accounts.
 
 To see results in Google Analytics or to create a goal.
-In Google Analytics Reporting go to: "Behavior" -> "Events" -> "Overview"
+In Google Analytics Reporting go to: "Behavior" -> "Events" -> "Overview" -> "Event Label" here you will be able to see all of your website's outbound links.
 
 Event Category = "external"
 Event Action = "click"
