@@ -1,6 +1,6 @@
 === Google Analytics Track Outbound Links ===
 Contributors: riseofweb
-Donate link: http://riseofweb.com/
+Donate link: https://riseofweb.com/wordpress/
 Tags: Google Analytics, Tracking, Outbound Links, track out links, exit traffic, record exit traffic
 Requires at least: 3.5
 Tested up to: 4.2
