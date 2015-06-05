@@ -31,6 +31,12 @@ If you need help with this plugin or WordPress design, plugins or themes, visit 
 
 == Frequently Asked Questions ==
 
+= Why are my links not showing in Google Analytics? =
+Sometimes with Google Analytics events can take up to 24 hours to show in the reports.
+
+= How can I test to see if the plugin is working in real time? =
+View the Console in your browser's web development tools. After an outbound link is clicked, the Console will say: "Outbound: www.example.com"
+
 = Do I need to add a goal in Google Analytics? =
 No, that is optional.
 
