@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Track your Google Analytics Outound Traffic
+Track your Google Analytics Outbound Traffic
 == Description ==
 
 Track your outbound links in Google Analytics.  This is compatible with both Classic and Universal Analytics Accounts.
