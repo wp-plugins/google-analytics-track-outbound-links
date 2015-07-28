@@ -43,6 +43,10 @@ No, that is optional.
 = What do I use for adding a goal? =
 Event Category = "external", Event Action = "click", Event Label = the outbound URL (so leave this blank. see the screenshot for setup example)
 
+= I use Yoast Google Analytics, and this plugin does not work. Why? =
+Yoast changes the Analytics JavaScript variable name for some reason or another. How to get this plugin to play frieldy with Yoast: Open up Yoast Google Analytics > Settings > Advanced tab and go down to the "Custom code:" field. Enter the following:
+__gaTracker(function(){window.ga=__gaTracker;});
+
 == Screenshots ==
 
 1. This is how you can view your outbound links in Google Analytics
