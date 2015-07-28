@@ -45,6 +45,7 @@ Event Category = "external", Event Action = "click", Event Label = the outbound 
 
 = I use Yoast Google Analytics, and this plugin does not work. Why? =
 Yoast changes the Analytics JavaScript variable name for some reason or another. How to get this plugin to play friendly with Yoast: Open up Yoast Google Analytics > Settings > Advanced tab and go down to the "Custom code:" field. Enter the following:
+
 __gaTracker(function(){window.ga=__gaTracker;});
 
 == Screenshots ==
